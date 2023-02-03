@@ -1,4 +1,4 @@
-const address = "Your Wallet";
+const address = "F3eNMUKN7znTCrT95H1Bmtaxb9popeAdcbxVHxVCbPsp";
 
 const mintInfo = {
     price: 0.2,         // Price per NFT.
